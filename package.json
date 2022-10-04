@@ -1,0 +1,16 @@
+{
+  "name": "tcc02",
+  "version": "1.0.0",
+  "description": "Realizar TCC Projeto",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Nei",
+  "license": "MIT",
+  "devDependencies": {
+    "@bahmutov/cy-api": "^2.2.0",
+    "@faker-js/faker": "^7.5.0",
+    "cypress": "^10.8.0"
+  }
+}
